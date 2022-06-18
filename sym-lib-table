@@ -1,0 +1,13 @@
+(sym_lib_table
+  (lib (name "Buck_Converter")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/Buck_Converter.kicad_sym")(options "")(descr ""))
+  (lib (name "Button_Switch")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/Button_Switch.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector_USB_C")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/Connector_USB_C.kicad_sym")(options "")(descr ""))
+  (lib (name "Device")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/Device.kicad_sym")(options "")(descr ""))
+  (lib (name "Diode")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/Diode.kicad_sym")(options "")(descr ""))
+  (lib (name "LED")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/LED.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_ST_STM32F103")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/MCU_ST_STM32F103.kicad_sym")(options "")(descr ""))
+  (lib (name "Mechanical")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/Mechanical.kicad_sym")(options "")(descr ""))
+  (lib (name "MX_Switch")(type "Legacy")(uri "${KIPRJMOD}/libs/symbols/MX_Switch.lib")(options "")(descr ""))
+  (lib (name "Power")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/Power.kicad_sym")(options "")(descr ""))
+  (lib (name "Power_Protection")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/Power_Protection.kicad_sym")(options "")(descr ""))
+)
