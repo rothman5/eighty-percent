@@ -1,0 +1,225 @@
+52927466668281
+capacitors
+C-0603-1608
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+capacitors
+C-0805-2012
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+capacitors
+C-3216-18A
+Tantalum Capacitor SMD Kemet-A (3216-18 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+connectors
+JST-SM04B-GHS-TB_1x4P
+JST GH series connector, SM04B-GHS-TB (http://www.jst-mfg.com/product/pdf/eng/eGH.pdf), generated with kicad-footprint-generator
+connector JST GH top entry
+0
+6
+5
+connectors
+USB_C_TYPE-C-31-M-12
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
+crystals
+Crystal-SMD-3225-4P
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+diodes
+D-0603-1608
+Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+fuses
+Fuse_0603_1608
+Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+fuse
+0
+2
+2
+mechanical
+MountingHole-2.5mm
+Mounting Hole 2.5mm, no annular
+mounting hole 2.5mm no annular
+0
+0
+0
+mechanical
+MountingHole-2mm
+Mounting Hole 2mm, no annular
+mounting hole 2mm no annular
+0
+0
+0
+mechanical
+Stabilizer-Cherry-MX-2.00u
+Cherry MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u
+Cherry MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout
+0
+0
+0
+mechanical
+Stabilizer-Cherry-MX-6.25u
+Cherry MX PCB Stabilizer 6.25u
+Cherry MX Keyboard Stabilizer 6.25u Cutout
+0
+0
+0
+packages
+LQFP-48
+LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+48
+48
+packages
+LQFP-48-EP
+LQFP, 48 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/LTC7810.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+58
+49
+packages
+SOT-23-6
+SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+6
+6
+packages
+SOT-223
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+4
+resistors
+R-0603-1608
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+switches
+SW-Kailh-Hotswap-MX
+Kailh keyswitch Hotswap Socket
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout
+0
+2
+2
+switches
+SW-Kailh-Hotswap-MX-1.00u
+Kailh keyswitch Hotswap Socket with 1.00u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 1.00u
+0
+2
+2
+switches
+SW-Kailh-Hotswap-MX-1.25u
+Kailh keyswitch Hotswap Socket with 1.25u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 1.25u
+0
+2
+2
+switches
+SW-Kailh-Hotswap-MX-1.50u
+Kailh keyswitch Hotswap Socket with 1.50u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 1.50u
+0
+2
+2
+switches
+SW-Kailh-Hotswap-MX-1.75u
+Kailh keyswitch Hotswap Socket with 1.75u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 1.75u
+0
+2
+2
+switches
+SW-Kailh-Hotswap-MX-2.00u
+Kailh keyswitch Hotswap Socket with 2.00u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 2.00u
+0
+2
+2
+switches
+SW-Kailh-Hotswap-MX-2.25u
+Kailh keyswitch Hotswap Socket with 2.25u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 2.25u
+0
+2
+2
+switches
+SW-Kailh-Hotswap-MX-2.50u
+Kailh keyswitch Hotswap Socket with 2.50u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 2.50u
+0
+2
+2
+switches
+SW-Kailh-Hotswap-MX-2.75u
+Kailh keyswitch Hotswap Socket with 2.75u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 2.75u
+0
+2
+2
+switches
+SW-Kailh-Hotswap-MX-6.00u
+Kailh keyswitch Hotswap Socket with 6.00u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 6.00u
+0
+2
+2
+switches
+SW-Kailh-Hotswap-MX-6.25u
+Kailh keyswitch Hotswap Socket with 6.25u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 6.25u
+0
+2
+2
+switches
+SW-Kailh-Hotswap-MX-6.50u
+Kailh keyswitch Hotswap Socket with 6.50u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 6.50u
+0
+2
+2
+switches
+SW-Kailh-Hotswap-MX-7.00u
+Kailh keyswitch Hotswap Socket with 7.00u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 7.00u
+0
+2
+2
+switches
+SW-SPDT-PCM12
+Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf
+
+0
+7
+3
+switches
+SW-SPST-B3U-1000P
+Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
+Tactile Switch
+0
+2
+2
