@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "switch_stabilizers")(type "KiCad")(uri "/home/rothman/Documents/kicad-workspace/mech80/libraries/footprints/switch_stabilizers.pretty")(options "")(descr ""))
+  (lib (name "switch_soldermask")(type "KiCad")(uri "/home/rothman/Documents/kicad-workspace/mech80/libraries/footprints/switch_soldermask.pretty")(options "")(descr ""))
+  (lib (name "kailh_sockets")(type "KiCad")(uri "/home/rothman/Documents/kicad-workspace/mech80/libraries/footprints/kailh_sockets.pretty")(options "")(descr ""))
+)
