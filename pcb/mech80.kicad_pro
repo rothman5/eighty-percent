@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 242.887,
-          "height": 1.625,
-          "width": 209.55
+          "drill": 3.048,
+          "height": 3.048,
+          "width": 3.048
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -103,17 +103,17 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.15239999999999998,
-        "min_copper_edge_clearance": 0.381,
-        "min_hole_clearance": 0.381,
-        "min_hole_to_hole": 0.25,
+        "min_clearance": 0.19999999999999998,
+        "min_copper_edge_clearance": 0.3,
+        "min_hole_clearance": 0.3,
+        "min_hole_to_hole": 0.5,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.15239999999999998,
-        "min_via_annular_width": 0.127,
-        "min_via_diameter": 0.254,
+        "min_track_width": 0.3,
+        "min_via_annular_width": 0.15,
+        "min_via_diameter": 0.39999999999999997,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
@@ -388,7 +388,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "../../../../",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
